@@ -1,0 +1,15 @@
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+bluebei_template\queue.o: D:\stm32_study\App\ARM\ARMCC\Bin\..\include\stdlib.h
+bluebei_template\queue.o: D:\stm32_study\App\ARM\ARMCC\Bin\..\include\string.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+bluebei_template\queue.o: D:\stm32_study\App\ARM\ARMCC\Bin\..\include\stddef.h
+bluebei_template\queue.o: D:\stm32_study\App\ARM\ARMCC\Bin\..\include\stdint.h
+bluebei_template\queue.o: ../Core/Inc/FreeRTOSConfig.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+bluebei_template\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
